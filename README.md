@@ -1,2 +1,2 @@
 # datasciencecoursera
-My First Data Science project from coursera
+My First Data Science project from coursera. I have left this readme to easily clone it to my desktop...
